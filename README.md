@@ -2,7 +2,7 @@
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
-You can play the game at: https://github.com/PagelsR-Sandbox/github-games-temporuler.git
+You can play the game at: https://pagelsr-sandbox.github.io/github-games-temporuler/
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
